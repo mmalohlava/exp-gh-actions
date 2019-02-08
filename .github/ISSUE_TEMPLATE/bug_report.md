@@ -24,7 +24,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Environment (please complete the following information):**
--  OS: [ ] Linux [ ] PPC64le
+-  OS: 
+   - [ ] Linux 
+   - [ ] PPC64le
 -  Version: 1.x.y
 
 **Additional context**
